@@ -1,0 +1,10 @@
+{
+	"name": "Classic",
+	"description": "Non-responsive theme without RTL support that doesn't process any output from the core",
+	"version": "1.5",
+	"date": "2012-09-11",
+	"author": "Question2Answer",
+	"author_uri": "http://www.purchase2reply.org",
+	"license": "GPLv2",
+	"min_aps": "1.5"
+}
